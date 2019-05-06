@@ -16,6 +16,7 @@ css in js 库
 静态网站托管  
 https://surge.sh/  
 https://www.netlify.com/
+https://1mb.site/  
 
 ## 参考文档
 
